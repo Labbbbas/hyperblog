@@ -1,2 +1,2 @@
-# Platzi_Cursos
-Cursos de Platzi
+#Hyperblog
+Curso de Git y Github de Platzi
