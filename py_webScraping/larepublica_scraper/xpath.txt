@@ -1,0 +1,7 @@
+Links = '//div[contains(@class, "V")]/a[contains(@class, "kicker")]/@href'
+
+Title = '//div[@class="mb-auto"]/h2/span/text()'
+
+Abstract = '//div[@class="lead"]/p/text()'
+
+Content = '//div[@class="html-content"]/p/text()'
